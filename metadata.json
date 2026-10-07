@@ -1,0 +1,6 @@
+{
+  "name": "AyushKaya – Panchkarma Therapies",
+  "description": "Premium modern Ayurvedic wellness practice in Sainipuram, Roorkee offering authentic Panchkarma therapies, home sessions, and personalized consultations by A.K. Goswami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
